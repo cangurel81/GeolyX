@@ -1,11 +1,3 @@
-_____ _        ___   __  __
- / ____| |      / _ \ / _||  \/  |
-| |  __| | ___ | | | | |_ | \  / |
-| | |_ | |/ _ \| | | |  _|| |\/| |
-| |__| | | (_) | |_| | |  | |  | |
- \_____|_|\___/ \___/|_|  |_|  |_|
-
-
 <h1 align="center">GeolyX 🌍</h1>
 <p align="center">
   <b>Google UULE — Precision Location Encoding, Zero Effort</b>
