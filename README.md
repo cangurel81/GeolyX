@@ -88,7 +88,7 @@ Example output:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/GeolyX.git
+git clone https://github.com/cangurel81/GeolyX.git
 
 # Navigate to the directory
 cd GeolyX
@@ -108,5 +108,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 <p align="center">
   <sub>Built with ❤️ by <b>WebAdHere Software</b></sub>
   <br>
-  <sub><a href="https://github.com/YOUR_USERNAME/GeolyX">GeolyX</a> — UULE Made Simple</sub>
+  <sub><a href="https://github.com/cangurel81/GeolyX">GeolyX</a> — UULE Made Simple</sub>
 </p>
