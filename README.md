@@ -106,7 +106,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <b>WebAdHere Software</b></sub>
+  <sub>Built with ❤️ by <a href="https://webadhere.com"><b>WebAdHere Software</b></a></sub>
   <br>
   <sub><a href="https://github.com/cangurel81/GeolyX">GeolyX</a> — UULE Made Simple</sub>
 </p>
