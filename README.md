@@ -79,7 +79,8 @@ Example output:
 
 ## 🖥️ Screenshot
 
-![GeolyX](google_uule.ico)
+<img width="579" height="445" alt="Ekran görüntüsü 2026-06-22 200430" src="https://github.com/user-attachments/assets/eb936dfb-cada-445a-ab48-87589ffa0e05" />
+<img width="576" height="443" alt="Ekran görüntüsü 2026-06-22 200502" src="https://github.com/user-attachments/assets/92f28f03-702a-4c83-9316-d18a63a25b13" />
 
 ---
 
