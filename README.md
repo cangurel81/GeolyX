@@ -9,6 +9,17 @@
   <img src="https://img.shields.io/badge/python-3.8+-blue?style=flat&logo=python">
   <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat&logo=windows">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat">
+  <img src="https://img.shields.io/github/v/release/cangurel81/GeolyX?style=flat&color=blue">
+</p>
+
+<p align="center">
+  <a href="https://github.com/cangurel81/GeolyX/releases/latest/download/GeolyX.exe">
+    <img src="https://img.shields.io/badge/Download-GeolyX.exe-2ea44f?style=for-the-badge&logo=windows" alt="Download for Windows">
+  </a>
+  <br>
+  <sub>Portable .exe — no installation required · Windows may warn about an unsigned binary (<b>More info → Run anyway</b>)</sub>
+  <br>
+  <sub>Taşınabilir .exe — kurulum gerekmez · İmzasız olduğu için SmartScreen uyarısı çıkabilir (<b>More info → Run anyway</b>)</sub>
 </p>
 
 ---
