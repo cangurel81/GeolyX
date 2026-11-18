@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+
+# Paketleme / derleme
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Test çıktıları
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Uygulama çıktıları
+*.log
+output/
+results/
+
+# Editör / işletim sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
