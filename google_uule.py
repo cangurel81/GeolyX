@@ -1,4 +1,4 @@
-﻿import json, base64, struct, tkinter as tk
+import json, base64, struct, tkinter as tk
 from tkinter import ttk, messagebox
 import tempfile, os, ctypes
 
